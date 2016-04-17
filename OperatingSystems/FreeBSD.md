@@ -1,16 +1,20 @@
-# Jails
+#FreeBSD
+
+## Jails
+
+###list jails
 
 ```
 jls
 ```
 
-list jails
 
+###shell into a jail
 
 ```
 jexec [2] tcsh
 ```
 
-shell into a jail
+
 
 
