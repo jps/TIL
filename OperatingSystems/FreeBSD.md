@@ -1,14 +1,14 @@
 #FreeBSD
 
 
-# Editors
+## Editors
 
 easy editor (installed by default vim/nano can be added with pkg)
 ```
 ee
 ```
 
-# Packages
+## Packages
 
 install bash
 ```
@@ -23,7 +23,7 @@ list jails
 jls
 ```
 
-###login into a jail (bash is not installed by default)
+login into a jail (bash is not installed by default)
 
 ```
 jexec [2] tcsh
